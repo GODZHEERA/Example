@@ -1,0 +1,5 @@
+C:\Users\FakeTaxiGuy\Desktop\Программирование\C#\Example008_IntroModules\obj\Debug\net6.0\Example008_IntroModules.csproj.AssemblyReference.cache
+C:\Users\FakeTaxiGuy\Desktop\Программирование\C#\Example008_IntroModules\obj\Debug\net6.0\Example008_IntroModules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FakeTaxiGuy\Desktop\Программирование\C#\Example008_IntroModules\obj\Debug\net6.0\Example008_IntroModules.AssemblyInfoInputs.cache
+C:\Users\FakeTaxiGuy\Desktop\Программирование\C#\Example008_IntroModules\obj\Debug\net6.0\Example008_IntroModules.AssemblyInfo.cs
+C:\Users\FakeTaxiGuy\Desktop\Программирование\C#\Example008_IntroModules\obj\Debug\net6.0\Example008_IntroModules.csproj.CoreCompileInputs.cache
